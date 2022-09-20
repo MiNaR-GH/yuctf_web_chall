@@ -4,7 +4,7 @@ var username = document.getElementById("username").value;
 var password = document.getElementById("password").value;
 if ( username == "admin" && password == "kill#me#55"){
 alert ("Login successfully");
-window.location = "ssccsss"; 
+window.location = "0fDAgl"; 
 return false;
 }
 else{
